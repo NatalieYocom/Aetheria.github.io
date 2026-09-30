@@ -3,7 +3,7 @@
         "@type": "SoftwareSourceCode",
             "name": "Basis",
                 "alternateName": "BasisVR",
-                    "url": "https://basisvr.org",
+                    "url": "https://natalieyocom.github.io",
                         "codeRepository": "https://github.com/BasisVR/basis",
                             "programmingLanguage": ["C#", "Unity"],
                                 "license": "https://opensource.org/license/mit/",
